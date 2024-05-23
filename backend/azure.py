@@ -6,7 +6,7 @@ WIBBLE2 = 'Wibble2'
 
 
 
-CSRF_TRUSTED_ORIGINS = ['https://saludbienestar.azurewebsites.net/', '*']
+CSRF_TRUSTED_ORIGINS = ['https://saludbienestar.azurewebsites.net', '*']
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',

@@ -163,7 +163,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
 CORS_ALLOWED_ORIGINS = [
-    'http://localhost:5173'
+    'https://zealous-sky-0a98c550f.5.azurestaticapps.net'
  ]
 
 
