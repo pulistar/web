@@ -1,0 +1,35 @@
+# Archivos y directorios de Python
+*.pyc
+__pycache__/
+
+# Entornos virtuales
+venv/
+env/
+.env
+ENV/
+
+# Archivos de configuración de IDEs
+.idea/
+.vscode/
+
+# Archivos de Django
+*.log
+*.pot
+*.py[cod]
+*.sqlite3
+
+# Archivos y directorios de despliegue
+staticfiles/
+media/
+
+# Archivos de cobertura de pruebas
+htmlcov/
+.coverage
+.coverage.*
+
+# Archivos de caché y configuración
+.DS_Store
+.coverage
+.pytest_cache/
+.mypy_cache/
+.pylint.d/
